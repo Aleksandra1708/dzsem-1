@@ -17,7 +17,7 @@
             {
                 Console.WriteLine($"Числа {a} и {b} равны");
             }
-            else
+            else if (Chto2)
             {
                 Console.WriteLine($"Число {b} больше чем {a}");
             }
