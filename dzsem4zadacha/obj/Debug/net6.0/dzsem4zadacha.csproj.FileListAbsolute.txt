@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.AssemblyInfo.cs
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\bin\Debug\net6.0\dzsem4zadacha.exe
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\bin\Debug\net6.0\dzsem4zadacha.deps.json
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\bin\Debug\net6.0\dzsem4zadacha.runtimeconfig.json
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\bin\Debug\net6.0\dzsem4zadacha.dll
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\bin\Debug\net6.0\dzsem4zadacha.pdb
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.dll
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\refint\dzsem4zadacha.dll
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.pdb
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\dzsem4zadacha.genruntimeconfig.cache
+C:\Users\Александра\Desktop\dzsem-1\dzsem4zadacha\obj\Debug\net6.0\ref\dzsem4zadacha.dll
